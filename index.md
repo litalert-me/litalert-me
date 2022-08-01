@@ -2,9 +2,9 @@ _litAlert is currently in development but we're aiming for a beta release by the
 
 litAlert is a new mobile app for the realms of emerging book genres. Our aim is simple: make it easier for readers to get notified of the latest books from their favourite authors, and provide a social platform wherein authors and fans can interact and share updates.
 
-This is currently something that's fairly easy for titles backed by major publishers, but something that's still a little elusive for newer, smaller genres, even though they have keen communities of authors and readers. litAlert wants to be a home for these communities, and make it easier for them to find updates on authors and books they want to read, and discover new titles that match their interests!
+This is currently something that's fairly easy for titles backed by major publishers, but something that's still a little elusive for newer, smaller genres, even though they have keen communities of authors and readers. litAlert wants to be a home for these communities, make it easier for them to find updates on authors and books they want to read, and discover new titles that match their interests!
 
-Rather than a "one-size-fits-all" approach, we'll be developing the community sites individually, so we can best customize them to what works best for each genre. With that in mind, we'd like to announce our first community, and the inspiration behind the litAlert project:
+Rather than a one-size-fits-all approach, we'll be developing the community sites individually, so we can best customize them to what works best for each genre. With that in mind, we'd like to announce our first community, and the inspiration behind the litAlert project:
 
 # litAlert RPG 
 
